@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "bitcoinjs-lib": "^4.0.2",
     "bs58check": "^2.1.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.5",
     "moment": "^2.22.2"
   },
   "devDependencies": {
