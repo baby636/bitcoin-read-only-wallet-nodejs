@@ -13,7 +13,7 @@
     "bitcoinjs-lib": "^4.0.2",
     "bs58check": "^2.1.2",
     "minimist": "^1.2.0",
-    "moment": "^2.22.2"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
