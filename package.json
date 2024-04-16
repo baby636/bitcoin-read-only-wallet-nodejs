@@ -16,7 +16,7 @@
     "moment": "^2.22.2"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.1.0",
     "eslint": "^5.6.1"
   }
 }
